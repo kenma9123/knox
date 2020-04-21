@@ -2,6 +2,12 @@
 
 Node Amazon S3 Client.
 
+## Note
+
+This is a fork of the no-longer maintained repository here: https://github.com/Automattic/knox
+
+This fork aims to fix the dependency `mime` problem.
+
 ## Features
 
   - Familiar API (`client.get()`, `client.put()`, etc.)
